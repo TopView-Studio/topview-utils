@@ -147,7 +147,7 @@
         <aliyun.oss.version>3.8.1</aliyun.oss.version>
         <aliyun.sts.version>3.0.1</aliyun.sts.version>
         <aliyun.core.version>4.4.9</aliyun.core.version>
-        <fastjson.version>1.2.62</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <qiniu.version>7.2.28</qiniu.version>
         <tencent-cloud.sts.version>3.0.6</tencent-cloud.sts.version>
         <tencent-cloud.cos.version>5.6.14</tencent-cloud.cos.version>
